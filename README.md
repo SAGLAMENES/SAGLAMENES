@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=SAGLAMENES&style=flat-square)
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Kotlin 
