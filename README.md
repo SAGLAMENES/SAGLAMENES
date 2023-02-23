@@ -4,11 +4,10 @@ Hi 👋 My name is Enes Sağlam
 Junior IOS Developer
 ------------------------
 
-I've been learning kotlin almost for two years and developed applications with it. I also work on java and flutter as a beginner.
 
 * 🌍  I'm based in Istanbul-Erzurum
 * ✉️  You can contact me at [enessaglamofficial@gmail.com](mailto:enessaglamofficial@gmail.com)
-* 🧠  I'm learning Kotlin-German-Spanish
+* 🧠  I'm learning Swift-German-Russian
 
 ### Skills
 
