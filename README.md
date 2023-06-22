@@ -7,7 +7,7 @@ Junior IOS Developer
 
 * 🌍  I'm based in Istanbul-Erzurum
 * ✉️  You can contact me at [enessaglamofficial@gmail.com](mailto:enessaglamofficial@gmail.com)
-* 🧠  I'm learning Swift-German-Russian
+* 🧠  I'm learning Swift
 
 ### Skills
 
