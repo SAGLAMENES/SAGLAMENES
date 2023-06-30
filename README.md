@@ -1,31 +1,21 @@
-Hi 👋 My name is Enes Sağlam
-============================
+<h1 align="center">Hi 👋, I'm Enes Saglam</h1>
+<h3 align="center">Junior iOS developer from Turkey</h3>
 
-Junior IOS Developer
-------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saglamenes&label=Profile%20views&color=0e75b6&style=flat" alt="saglamenes" /> </p>
 
+- 📫 How to reach me **enessaglamofficial@gmail.com**
 
-* 🌍  I'm based in Istanbul-Erzurum
-* ✉️  You can contact me at [enessaglamofficial@gmail.com](mailto:enessaglamofficial@gmail.com)
-* 🧠  I'm learning Swift
-
-### Skills
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://linkedin.com/in/https://tr.linkedin.com/in/enes-sağlam-96a821242?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://tr.linkedin.com/in/enes-sağlam-96a821242?trk=people-guest_people_search-card" height="30" width="40" /></a>
+<a href="https://instagram.com/enessaglaml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enessaglaml" height="30" width="40" /></a>
 </p>
 
-### Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.github.com/saglamenes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/enessaglaml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/enes-sağlam-96a821242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@enessaglamofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> </p>
-### Badges
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saglamenes&show_icons=true&locale=en&layout=compact" alt="saglamenes" /></p>
 
-<b>My GitHub Stats</b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saglamenes&show_icons=true&locale=en" alt="saglamenes" /></p>
 
-<a href="http://www.github.com/saglamenes"><img src="https://github-readme-stats.vercel.app/api?username=saglamenes&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saglamenes's GitHub stats" /></a>
-
-<a href="https://github.com/saglamenes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saglamenes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saglamenes&" alt="saglamenes" /></p>
