@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Saglam</h1>
 <h3 align="center">Junior iOS developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saglamenes&label=Profile%20views&color=0e75b6&style=flat" alt="saglamenes" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=saglamenes&label=Profile%20views&color=0e75b6&style=flat](https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg)" alt="saglamenes" /> </p>
 
 - 📫 How to reach me **enessaglamofficial@gmail.com**
 
